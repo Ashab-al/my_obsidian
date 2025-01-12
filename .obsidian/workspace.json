@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6982f639f5a0ef3",
+        "id": "885e29bb20a36419",
         "type": "tabs",
         "children": [
           {
-            "id": "030a8ee7d5f78654",
+            "id": "38f8cafcbd08c200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Бэкенд/Rails/Автозагрузка и перезагрузка констант/4. config.autoload_lib(ignore).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "4. config.autoload_lib(ignore)"
             }
           }
         ]
@@ -163,44 +163,44 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "030a8ee7d5f78654",
+  "active": "38f8cafcbd08c200",
   "lastOpenFiles": [
-    "Фронтенд/css/flex свойство.md",
-    "README.md",
-    "Docker/Как зайти в контейнер и выполнить команду внутри.md",
-    "Docker/Как закрыть запущенные контейнеры.md",
-    "Git Гит/Полезные команды Git.md",
-    "Git Гит/GIT FLOW.md",
-    "Git Гит/git pull --rebase Для интеграции изменений из удаленного репозитория в локальную копию..md",
+    "Бэкенд/Rails/Автозагрузка и перезагрузка констант/7. Перезагрузка.md",
+    "Бэкенд/Rails/Автозагрузка и перезагрузка констант/6. config.autoload_lib_once(ignore).md",
+    "Бэкенд/Rails/Автозагрузка и перезагрузка констант/4. config.autoload_lib(ignore).md",
     "Linux/sudo pacman -Suyy.md",
-    "Python/Команда для запуска env в консоли.md",
-    "Telegram bots/Необычная ссылка на профиль телеграм с помощью id.md",
-    "Бэкенд/Rails/Работа с БД/Основы Active Record/Удаление.md",
-    "Бэкенд/Rails/Работа с БД/Основы Active Record/Обновление.md",
-    "Бэкенд/Rails/Работа с БД/Основы Active Record/Чтение.md",
-    "Бэкенд/Rails/Работа с БД/Связи в бд rails.md",
-    "Бэкенд/Rails/Работа с БД/Основы Active Record",
-    "Бэкенд/Rails/Работа с БД/Как создать новую таблицу рельсов.md",
-    "Бэкенд/Rails/Работа с БД/Как создать модель в rails.md",
-    "Бэкенд/Rails/Работа с БД/Как изменить колонку.md",
-    "Бэкенд/Rails/Работа с БД/Как добавить колонку в rails в бд.md",
-    "Бэкенд/Rails/Работа с БД/Бд в Ruby On Rails.md",
-    "Pasted image 20241108005317.png",
-    "Бэкенд/rbenv/Команды rbenv.md",
-    "Бэкенд/Rails/RSpec/Rspec TDD и BDD.md",
+    "Бэкенд/Rails/Автозагрузка и перезагрузка констант",
+    "Git Гит/Полезные команды Git.md",
+    "Git Гит/git pull --rebase Для интеграции изменений из удаленного репозитория в локальную копию..md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.6. Связь has_and_belongs_to_many.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.1. Связь belongs_to.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.2. Связь has_one.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.3. Связь has_many.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.5. Связь has_one through.md",
+    "Git Гит/GIT FLOW.md",
     "Бэкенд/Rails/RSpec/RSpec.md",
     "Бэкенд/Rails/RSpec/Binding Pry/Методы в binding.pry.md",
+    "Бэкенд/Rails/RSpec/Rspec TDD и BDD.md",
     "Бэкенд/Rails/RSpec/RSpec doubles - дублёр.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record/2.4. Удаление столбцов.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record/2.5. Создание связей.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record/3.1.1. Связи.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.9. Полиморфные связи.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.11. Присоединение к себе.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record/3.3. Изменение таблиц.md",
+    "2024-12-31.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record/3.2. Создание соединительной таблицы.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record/2.3. Добавление столбцов.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record/2.2. Создание новой таблицы.md",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей",
+    "Бэкенд/Rails/Работа с БД/Основы Active Record",
+    "Pasted image 20241108005317.png",
     "Бэкенд/Rails/RSpec/Binding Pry",
-    "Бэкенд/Rails/Routes ПУТИ РУТЫ/Осмотр и тестирование маршрутов.md",
-    "Бэкенд/Rails/Routes ПУТИ РУТЫ/Примеры Рутов.md",
     "OpenApi doc",
     "Бэкенд/Rails/Работа с БД/PostgreSQL",
     "Фронтенд/html",
     "Фронтенд/css",
-    "Фронтенд",
-    "Проект YO",
-    "Бэкенд/Rails/DRY/dry-types",
-    "Бэкенд/Rails/Работа с БД"
+    "Фронтенд"
   ]
 }
