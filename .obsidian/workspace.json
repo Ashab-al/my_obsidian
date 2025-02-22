@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "DELETE"
             }
+          },
+          {
+            "id": "d2f4ec487aa7c083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бэкенд/Rails/RSpec/Binding Pry/Методы в binding.pry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Методы в binding.pry"
+            }
+          },
+          {
+            "id": "b641ce9bbfd95a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/sudo pacman -Suyy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sudo pacman -Suyy"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,9 +193,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c5f5419c44d85f5f",
+  "active": "b641ce9bbfd95a14",
   "lastOpenFiles": [
+    "Бэкенд/Rails/RSpec/Binding Pry/Методы в binding.pry.md",
+    "Linux/sudo pacman -Suyy.md",
     "Git Гит/Полезные команды Git.md",
+    "Бэкенд/Rails/Автозагрузка и перезагрузка констант/7. Перезагрузка.md",
+    "Бэкенд/Rails/Автозагрузка и перезагрузка констант/4. config.autoload_lib(ignore).md",
+    "Git Гит/GIT FLOW.md",
+    "Бэкенд/Rails/RSpec/RSpec doubles - дублёр.md",
     "Бэкенд/PostgreSQL/DELETE.md",
     "Бэкенд/Rails/Cron Sidekiq/When dealing with whenever in Docker No such file or directory --crontab.md",
     "Бэкенд/PostgreSQL/9.22. Выражения подзапросов/9.22.1. EXISTS.md",
@@ -182,18 +217,12 @@
     "Бэкенд/PostgreSQL/LEFT JOIN, RIGHT JOIN и INNER JOIN.md",
     "Бэкенд/PostgreSQL/Урок по рельсам 43. Postgresql базовый урок.md",
     "Бэкенд/PostgreSQL/Cписок полезных команд.md",
-    "Git Гит/GIT FLOW.md",
-    "Linux/sudo pacman -Suyy.md",
-    "Бэкенд/Rails/Автозагрузка и перезагрузка констант/4. config.autoload_lib(ignore).md",
-    "Бэкенд/Rails/Автозагрузка и перезагрузка констант/7. Перезагрузка.md",
     "Бэкенд/Rails/Автозагрузка и перезагрузка констант/6. config.autoload_lib_once(ignore).md",
     "Бэкенд/Rails/Автозагрузка и перезагрузка констант",
     "Git Гит/git pull --rebase Для интеграции изменений из удаленного репозитория в локальную копию..md",
     "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.6. Связь has_and_belongs_to_many.md",
     "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.1. Связь belongs_to.md",
     "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.2. Связь has_one.md",
-    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.3. Связь has_many.md",
-    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.5. Связь has_one through.md",
     "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record",
     "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей",
     "Бэкенд/Rails/Работа с БД/Основы Active Record",
