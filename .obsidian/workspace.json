@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/sudo pacman -Suyy.md",
+                "file": "Docker/Ключевые команды образы Docker и контейнеры Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sudo pacman -Suyy"
+              "title": "Ключевые команды образы Docker и контейнеры Docker"
             }
           }
         ],
@@ -195,8 +195,9 @@
   },
   "active": "b641ce9bbfd95a14",
   "lastOpenFiles": [
-    "Бэкенд/Rails/RSpec/Binding Pry/Методы в binding.pry.md",
     "Linux/sudo pacman -Suyy.md",
+    "Docker/Ключевые команды образы Docker и контейнеры Docker.md",
+    "Бэкенд/Rails/RSpec/Binding Pry/Методы в binding.pry.md",
     "Git Гит/Полезные команды Git.md",
     "Бэкенд/Rails/Автозагрузка и перезагрузка констант/7. Перезагрузка.md",
     "Бэкенд/Rails/Автозагрузка и перезагрузка констант/4. config.autoload_lib(ignore).md",
@@ -222,7 +223,6 @@
     "Git Гит/git pull --rebase Для интеграции изменений из удаленного репозитория в локальную копию..md",
     "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.6. Связь has_and_belongs_to_many.md",
     "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.1. Связь belongs_to.md",
-    "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей/2.2. Связь has_one.md",
     "Бэкенд/Rails/Работа с БД/Основы Active Record/Миграции Active Record",
     "Бэкенд/Rails/Работа с БД/Основы Active Record/Типы связей",
     "Бэкенд/Rails/Работа с БД/Основы Active Record",
